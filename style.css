@@ -9,7 +9,7 @@
     justify-content: center;
 }
 @media (max-width: 991px) {
-    menu-bg {
+    .menu-bg {
         background-color: #323335;
     }
     .menu-btn {
@@ -31,7 +31,7 @@
 .btn-purple{
     background-color: #8d46f6;
     padding: 16px 40px;
-    transition: background 0.2s ease-in-out;
+    transition:backgrond  0.2s ease-in-out;
 }
 .btn-purple:hover {
     background-color: #753dca;
